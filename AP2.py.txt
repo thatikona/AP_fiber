@@ -1,1 +1,8 @@
 AP fiber 2
+a = 20
+b = 35
+if b < a
+  print ( "b is less than a")
+if a > b 
+  print ( "a is greater than b")
+  
