@@ -1,0 +1,7 @@
+AP fiber 4th data file
+a = 10
+
+b = 20
+
+if a < b
+  print ("fiber a is greater than b")
