@@ -1,0 +1,16 @@
+New fiber plan
+a = 500
+
+b = 1000
+
+c = 2500
+
+D is input field
+
+if d == a
+  print (" your plan is Initial pack")
+if d == b
+  print (" your plan is jet pack")
+
+if d == c
+  print (" your plan is bladzet pack")
