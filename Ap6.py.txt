@@ -14,3 +14,4 @@ if d == b
 
 if d == c
   print (" your plan is bladzet pack")
+end-if
